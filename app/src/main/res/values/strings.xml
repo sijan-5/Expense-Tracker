@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">playstoreproject</string>
+    <string name="welcome">Welcome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="home">Home</string>
+    <string name="data">Data</string>
+    <string name="i_am_homelayout">I am homelayout</string>
+    <string name="hello_stat_fragment">hello_stat_fragment</string>
+    <string name="thrifty">Thrifty</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="transportation">Transportation</string>
+    <string name="groceries">Groceries</string>
+    <string name="education">Education</string>
+    <string name="maintenance">Maintenance</string>
+    <string name="bills">Bills</string>
+</resources>
