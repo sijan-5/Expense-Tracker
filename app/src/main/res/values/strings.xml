@@ -21,4 +21,9 @@
     <string name="education">Education</string>
     <string name="maintenance">Maintenance</string>
     <string name="bills">Bills</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="type">Type</string>
+    <string name="show_me_here">Show me here</string>
+    <string name="i_am_transportation">I am transportation</string>
 </resources>
